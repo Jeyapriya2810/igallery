@@ -1,5 +1,6 @@
 # Ex.08 Design of Interactive Image Gallery
-## Date:
+## Date:07/05/2025
+## Name:JEYAPRIYA.J Reg no:212224100027
 
 ## AIM:
 To design a web application for an inteactive image gallery with minimum five images.
